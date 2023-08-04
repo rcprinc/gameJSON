@@ -1,0 +1,119 @@
+{"anime":[    
+    {
+      "day":1, 
+      "year":2023, 
+      "nameContains": "Hunter X Hunter",
+      "images":[
+        "https://i.ibb.co/R2WKct9/1-1.jpg",
+        "https://i.ibb.co/k3Lxp7L/1-2.png",
+        "https://i.ibb.co/DkZ1KNQ/1-3.png",
+        "https://i.ibb.co/J23fDqV/1-4.jpg",
+        "https://i.ibb.co/jRgpJHG/1-5.png"
+        ],
+      "names":["Hunter X Hunter"]
+    }, 
+        {
+      "day":2, 
+      "year":2023, 
+      "nameContains": "fruits basket",
+      "images":[
+        "https://i.ibb.co/HPwXkVb/1.png",
+        "https://i.ibb.co/6XxRBXs/2.png",
+        "https://i.ibb.co/Bg6qb4g/3.png",
+        "https://i.ibb.co/W3TTRTm/4.png",
+        "https://i.ibb.co/1JpQpP9/5.png"
+        ],
+      "names":["Fruits Basket"]
+    },
+      {
+      "day":3, 
+      "year":2023, 
+      "nameContains": "Ranking of Kings",
+      "images":[
+        "https://i.ibb.co/5Mv8mCm/1.png",
+        "https://i.ibb.co/P9q9tK8/2.png",
+        "https://i.ibb.co/47rSsmP/3.png",
+        "https://i.ibb.co/274NMbD/4.png",
+        "https://i.ibb.co/9Z2V3Hx/5.png"
+        ],
+      "names":["Ranking of Kings"]
+    },
+          {
+      "day":4, 
+      "year":2023, 
+      "nameContains": "Welcome to Demon School",
+      "images":[
+        "https://i.ibb.co/3hPPS8N/1.png",
+        "https://i.ibb.co/0ZCssqR/2.png",
+        "https://i.ibb.co/r7Q865d/3.png",
+        "https://i.ibb.co/SrJcGM8/4.png",
+        "https://i.ibb.co/gT5kH25/5.png"
+        ],
+      "names":["Welcome to Demon School"]
+    },
+              {
+      "day":5, 
+      "year":2023, 
+      "nameContains": "Fullmetal Alchemist",
+      "images":[
+        "https://i.ibb.co/QYtND6D/1.png",
+        "https://i.ibb.co/0GQgG1V/2.png",
+        "https://i.ibb.co/hW86wn7/3.png",
+        "https://i.ibb.co/hLfxXCB/4.png",
+        "https://i.ibb.co/q1dqx2z/5.png"
+        ],
+      "names":["Fullmetal Alchemist"]
+    },
+                  {
+      "day":6, 
+      "year":2023, 
+      "nameContains": "Love Is War",
+      "images":[
+        "https://i.ibb.co/9GpcpWD/1.png",
+        "https://i.ibb.co/fMy2jym/2.png",
+        "https://i.ibb.co/D9WM4zq/3.png",
+        "https://i.ibb.co/D5w2tp3/4.png",
+        "https://i.ibb.co/2h9DMjF/5.png"
+        ],
+      "names":["Kaguya-sama: Love Is War?"]
+    },
+                      {
+      "day":7, 
+      "year":2023, 
+      "nameContains": "Jobless Reincarnation",
+      "images":[
+        "https://i.ibb.co/0J0LYY7/1.png",
+        "https://i.ibb.co/Km0YFq3/2.png",
+        "https://i.ibb.co/m59RTtP/3.png",
+        "https://i.ibb.co/wsp6CmW/4.png",
+        "https://i.ibb.co/wWTzvZn/5.png"
+        ],
+      "names":["Mushoku Tensei: Jobless Reincarnation"]
+    },
+                          {
+      "day":8, 
+      "year":2023, 
+      "nameContains": "Shield Hero",
+      "images":[
+        "https://i.ibb.co/Z6D8SNT/1.png",
+        "https://i.ibb.co/18fVydV/2.png",
+        "https://i.ibb.co/CJBjK9X/3.png",
+        "https://i.ibb.co/pwmsRWp/4.png",
+        "https://i.ibb.co/QdGhNhH/5.png"
+        ],
+      "names":["The Rising of the Shield Hero"]
+    },
+                              {
+      "day":9, 
+      "year":2023, 
+      "nameContains": "Baki",
+      "images":[
+        "https://i.ibb.co/YTh7JrL/1.png",
+        "https://i.ibb.co/7gvPnYs/2.png",
+        "https://i.ibb.co/4VCntcy/3.png",
+        "https://i.ibb.co/ZgWY22s/4.png",
+        "https://i.ibb.co/ykTdRrX/5.jpg"
+        ],
+      "names":["Baki"]
+    } 
+]}  
